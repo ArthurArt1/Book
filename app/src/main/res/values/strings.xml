@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="title_activity_book_form">BookFormActivity</string>
+    <string name="action_search">Search</string>
+</resources>
